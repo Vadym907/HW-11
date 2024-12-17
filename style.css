@@ -1,0 +1,7 @@
+.list-flex {
+    display: flex;
+    list-style: none;
+    gap: 35px;
+    text-align: center;
+    justify-content: center;
+}
